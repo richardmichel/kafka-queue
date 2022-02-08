@@ -1,12 +1,14 @@
 {
     "name": "richardmichel/kafka-queue",
     "require": {
-        "laravel/framework": "^8.75"
+        "laravel/framework": "^8.75",
+        "php": ">=7.4.0"
     },
     "authors": [
         {
             "name": "MichelNogales",
             "email": "michelnogales@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
