@@ -1,5 +1,7 @@
 {
     "name": "richardmichel/kafka-queue",
+    "keywords": ["richardmichel", "laravel"],
+    "license": "MIT",
     "require": {
         "laravel/framework": "^8.75",
         "php": ">=7.4.0"
