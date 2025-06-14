@@ -1,9 +1,12 @@
 {
     "name": "richardmichel/kafka-queue",
-    "keywords": ["richardmichel", "laravel"],
+    "keywords": [
+        "richardmichel",
+        "laravel"
+    ],
     "license": "MIT",
     "require": {
-        "laravel/framework": "^8.0.0|^9.0.0",
+        "laravel/framework": "^8.0.0|^9.0.0|^10.0.0|^11.0.0",
         "php": "^7.3|^8.0"
     },
     "authors": [
